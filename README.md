@@ -9,3 +9,7 @@ To measure the acceleration rate of the drones we use MPU 9250 sensor and Arduin
 # Used Softwares
 - Labview
 - Arduino
+# Labview Front Panel
+![image](https://user-images.githubusercontent.com/106913674/172061227-bfdba3d9-fc06-40cf-910a-017a6fa35225.png)
+# Labview Backend
+![image](https://user-images.githubusercontent.com/106913674/172061268-1d27e5a7-1bf3-4480-8367-9700cce3aa82.png)
