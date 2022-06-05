@@ -7,5 +7,5 @@ To measure the acceleration rate of the drones we use MPU 9250 sensor and Arduin
 - 1 MPU 9250
 - 4 Female-Male jumper cables
 # Used Softwares
--Labview
--Arduino
+- Labview
+- Arduino
